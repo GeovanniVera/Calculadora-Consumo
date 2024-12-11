@@ -13,6 +13,7 @@ export default function MenuItem({item,addOrderItem}:MenuItemProps) {
     className="border-2
      border-gray-600 
      border-e-violet-700  
+     border-e-4
      w-full 
      p-3 
      flex 

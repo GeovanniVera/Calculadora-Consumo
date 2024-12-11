@@ -11,13 +11,13 @@ function App() {
 
   return (
     <>
-      <header className="bg-violet-950 py-5">
-        <h1 className="text-center text-4xl font-black text-slate-50">Calculadora de Propinas y Consumo</h1>
+      <header className="bg-violet-950 py-10">
+        <h1 className="text-center text-4xl font-black text-slate-50 uppercase">Calculadora de Propinas y Consumo</h1>
       </header>
       <main
         className="max-w-7xl 
       mx-auto 
-      mt-20 
+      
       py-20 
       grid 
       md:grid-cols-2
